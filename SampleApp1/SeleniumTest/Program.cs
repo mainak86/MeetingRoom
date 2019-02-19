@@ -36,7 +36,7 @@ namespace SeleniumTest
            // Assert.True(1==1);
         }
 
-        [TearDown]
+        //[TearDown]
         public void closeBrowser()
         {
             driver.Close();
