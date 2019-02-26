@@ -1,2 +1,0 @@
-# MeetingRoom
-Our Meeting Room
